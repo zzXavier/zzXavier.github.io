@@ -22,7 +22,7 @@ repository: "zzxavier/zzxavier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xavier Zhang"
   pronouns         : "he/him"  
   bio              : "为人民日益增长的美好生活需要而读书"
