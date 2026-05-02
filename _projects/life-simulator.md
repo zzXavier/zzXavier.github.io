@@ -15,3 +15,7 @@ This is a Java project for simulating life paths through choices, events, and st
 - Object-oriented programming
 - Event simulation
 
+## GitHub
+
+[View on GitHub](https://github.com/zzXavier/LifeReincarnationSimulatorDemo)
+
