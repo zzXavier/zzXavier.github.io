@@ -71,14 +71,8 @@
     {
       "name": "Life Simulator",
       "description": "A Java-based simulation project that models choices, events, and life-state changes.",
-      "url": "",
+      "url": "https://github.com/zzXavier/LifeReincarnationSimulatorDemo",
       "date": "2024-11-01"
-    },
-    {
-      "name": "Library Resource Management System",
-      "description": "A C-based library resource management project for organizing books, users, and borrowing records.",
-      "url": "",
-      "date": "2024-06-01"
     },
     {
       "name": "OAS: Graduate Application Project",
