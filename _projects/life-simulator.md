@@ -1,7 +1,7 @@
 ---
 title: "Life Simulator / 人生模拟器"
 collection: projects
-date: 2025-5
+date: 2025-05-01
 description: "A Java-based simulation project that models choices, events, and life-state changes."
 ---
 
