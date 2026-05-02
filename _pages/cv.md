@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV / 简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education / 教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology, Beijing Normal-Hong Kong Baptist University, 2024-2028
+* 新生全额奖学金入学，北师香港浸会大学计算机科学与技术专业，2024-2028
 
-Work experience
+Profile / 个人简介
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate student based in Zhuhai, China
+* Currently studying Computer Science and Technology at BNBU
+* Interested in Computer Vision and image-related applications
+* 目前关注计算机视觉与图像领域，持续积累算法、机器学习和工程开发能力
   
-Skills
+Skills / 技术栈
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++ algorithms
+* Web development
+* Machine learning
+* Java development
+* MySQL
 
-Publications
+Competitions / 比赛经历
 ======
-  <ul>{% for post in site.publications reversed %}
+* Provincial Second Prize, Chinese Mathematics Competitions
+* Third Prize, Guangdong Collegiate Programming Contest (GDCPC)
+* Provincial Second Prize, The 16th Lanqiao Cup
+* Provincial First Prize, The 17th Lanqiao Cup; national final in progress
+* 全国大学生数学竞赛省二等奖
+* 广东省大学生程序竞赛（GDCPC）三等奖
+* 第 16 届蓝桥杯省二等奖
+* 第 17 届蓝桥杯省一等奖，国赛进行中
+  
+Projects / 项目经历
+======
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

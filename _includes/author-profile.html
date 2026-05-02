@@ -88,6 +88,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
+      {% if author.csdn %}
+        <li><a href="https://blog.csdn.net/{{ author.csdn }}"><i class="fas fa-fw fa-code icon-pad-right" aria-hidden="true"></i>CSDN</a></li>
+      {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
@@ -171,6 +174,9 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+      {% if author.qq %}
+        <li><a href="https://wpa.qq.com/msgrd?v=3&uin={{ author.qq }}&site=qq&menu=yes"><i class="fab fa-fw fa-qq icon-pad-right" aria-hidden="true"></i>QQ</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>

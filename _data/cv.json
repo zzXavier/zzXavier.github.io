@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Xavier Zhang",
-    "email": "794853319@qq.com",
+    "email": "",
     "phone": "",
     "website": "https://zzxavier.github.io",
-    "summary": "Currently studying at Beijing Normal-Hong Kong Baptist University.",
+    "summary": "Undergraduate student in Computer Science and Technology at BNBU, interested in Computer Vision and image-related applications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,6 +17,21 @@
         "network": "GitHub",
         "username": "zzxavier",
         "url": "https://github.com/zzxavier"
+      },
+      {
+        "network": "Zhihu",
+        "username": "zzXavier",
+        "url": "https://www.zhihu.com/people/zzXavier"
+      },
+      {
+        "network": "CSDN",
+        "username": "zzXavier",
+        "url": "https://blog.csdn.net/zzXavier"
+      },
+      {
+        "network": "QQ",
+        "username": "794853319",
+        "url": "https://wpa.qq.com/msgrd?v=3&uin=794853319&site=qq&menu=yes"
       }
     ]
   },
@@ -32,7 +47,14 @@
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    { "name": "Python", "keywords": [] },
+    { "name": "C++ Algorithms", "keywords": [] },
+    { "name": "Web Development", "keywords": [] },
+    { "name": "Machine Learning", "keywords": [] },
+    { "name": "Java Development", "keywords": [] },
+    { "name": "MySQL", "keywords": [] }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
@@ -47,10 +69,22 @@
   ],
   "projects": [
     {
-      "name": "Project Name",
-      "description": "Description of the project",
-      "url": "https://github.com/yourname/project",
-      "date": "2024-01-01"
+      "name": "Life Simulator",
+      "description": "A Java-based simulation project that models choices, events, and life-state changes.",
+      "url": "",
+      "date": "2024-11-01"
+    },
+    {
+      "name": "Library Resource Management System",
+      "description": "A C-based library resource management project for organizing books, users, and borrowing records.",
+      "url": "",
+      "date": "2024-06-01"
+    },
+    {
+      "name": "OAS: Graduate Application Project",
+      "description": "A web-based project for supporting graduate application workflows.",
+      "url": "https://github.com/zhaozefeng67-blip/OAS",
+      "date": "2025-01-01"
     }
   ]
 }
