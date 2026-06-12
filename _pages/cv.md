@@ -24,6 +24,8 @@ Profile / 个人简介
 Skills / 技术栈
 ======
 * Python
+* Data processing and statistical analysis with pandas and NumPy
+* Data visualization and analytical dashboard design
 * C++ algorithms
 * Web development
 * Machine learning

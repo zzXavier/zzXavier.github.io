@@ -48,7 +48,8 @@
     }
   ],
   "skills": [
-    { "name": "Python", "keywords": [] },
+    { "name": "Python", "keywords": ["pandas", "NumPy"] },
+    { "name": "Data Processing and Analysis", "keywords": ["data cleaning", "statistical analysis", "visualization"] },
     { "name": "C++ Algorithms", "keywords": [] },
     { "name": "Web Development", "keywords": [] },
     { "name": "Machine Learning", "keywords": [] },
@@ -68,6 +69,12 @@
     }
   ],
   "projects": [
+    {
+      "name": "PokeBattle Insight",
+      "description": "A Pokemon analytics platform featuring data cleaning, statistical analysis, visualization, Random Forest classification, K-Means clustering, and battle evaluation.",
+      "url": "https://github.com/zzXavier/PokeBattle",
+      "date": "2026-05-27"
+    },
     {
       "name": "Life Simulator",
       "description": "A Java-based simulation project that models choices, events, and life-state changes.",
