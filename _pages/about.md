@@ -30,13 +30,13 @@ Highlights / 经历亮点
 
 - Provincial Second Prize, Chinese Mathematics Competitions
 - Third Prize, Guangdong Collegiate Programming Contest (GDCPC)
-- Provincial Second Prize, The 16th Lanqiao Cup
-- Provincial First Prize, The 17th Lanqiao Cup; national final in progress
+- Provincial Second Prize, C++ Group, The 16th Lanqiao Cup
+- National Second Prize, C++ Group, The 17th Lanqiao Cup
 
 - 全国大学生数学竞赛省二等奖
 - 广东省大学生程序竞赛（GDCPC）三等奖
-- 第 16 届蓝桥杯省二等奖
-- 第 17 届蓝桥杯省一等奖，国赛进行中
+- 第 16 届蓝桥杯 C++ 组省二等奖
+- 第 17 届蓝桥杯 C++ 组国赛二等奖
 
 Links / 链接
 ======
